@@ -1,3 +1,1 @@
-# [Information Fusion 2025] Code for Cross-Modal Guided and Refinement-Enhanced Retinex Network for Robust Low-Light Image Enhancement
-
-✨ Code & paper coming soon.
+# [Information Fusion 2025] Code for Cross-Modal Guided and Refinement-Enhanced Retinex Network for Robust Low-Light Image Enhancement [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525004531)
