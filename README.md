@@ -7,10 +7,10 @@ The Retinex theory has long been a cornerstone in the field of low-light image e
 
 ### Train
 ```
-python train.py -opt ./options/train/LSRW-Huawei.yml
+python train.py -opt ./options/train/huawei.yml
 ```
 
 ### Test
 ```
-python test.py -opt ./options/test/LSRW-Huawei.yml
+python test.py -opt ./options/test/huawei.yml
 ```
